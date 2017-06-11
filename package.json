@@ -1,0 +1,7 @@
+{
+  "name": "metabase",
+  "version": "1.0.0",
+  "scripts": {
+    "postinstall": "curl http://downloads.metabase.com/v0.24.2/metabase.jar > ./metabase.jar"
+  }
+}
